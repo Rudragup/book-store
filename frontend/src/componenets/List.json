@@ -1,0 +1,166 @@
+[
+    {
+        "id":1,
+        "name": "Stroy Book",
+        "titke": "lorem ipsum dolor sit amet, consectetur",
+        "prices": 0,
+        "category":"free",
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?semt=sph"
+    },
+    {
+        "id":3,
+        "name": "rudra Book",
+        "titke": "lorem ipsum dolor sit amet, consectetur",
+        "prices": 0,
+        "category":"free",
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?semt=sph"
+    },
+    {
+        "id":4,
+        "name": "Coding Book",
+        "titke": "lorem ipsum dolor sit amet, consectetur",
+        "prices": 0,
+        "category":"free",
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?semt=sph"
+    },
+    {
+        "id":5,
+        "name": "programming Book",
+        "titke": "lorem ipsum dolor sit amet, consectetur",
+        "prices": 0,
+        "category":"free",
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?semt=sph"
+    },
+    {
+        "id":6,
+        "name": "Read Book",
+        "titke": "lorem ipsum dolor sit amet, consectetur",
+        "prices": 0,
+        "category":"free",
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?semt=sph"
+    },
+    {
+        "id":2,
+        "name": "Music Book",
+        "titke": "lorem ipsum dolor sit amet, consectetur",
+        "prices": 0,
+        "category":"free",
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?semt=sph"
+    },
+
+    {
+        "id":7,
+        "name": "C++ Book",
+        "titke": "lorem ipsum dolor sit amet, consectetur",
+        "prices": 80,
+        "category":"price",
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?semt=sph"
+    },
+    {
+        "id":8,
+        "name": "java Book",
+        "titke": "lorem ipsum dolor sit amet, consectetur",
+        "prices": 800,
+        "category":"price",
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?semt=sph"
+    },
+    {
+        "id":9,
+        "name": "Stroy Book",
+        "titke": "lorem ipsum dolor sit amet, consectetur",
+        "prices": 180,
+        "category":"price",
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?semt=sph"
+    },
+    {
+        "id":10,
+        "name": " C Book",
+        "titke": "lorem ipsum dolor sit amet, consectetur",
+        "prices": 820,
+        "category":"price",
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?semt=sph"
+    },
+    {
+        "id":11,
+        "name": " Python Book",
+        "titke": "lorem ipsum dolor sit amet, consectetur",
+        "prices": 520,
+        "category":"price",
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?semt=sph"
+    },
+    {
+        "id":12,
+        "name": " C# Book",
+        "titke": "lorem ipsum dolor sit amet, consectetur",
+        "prices": 220,
+        "category":"price",
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?semt=sph"
+    },
+    {
+        "id":13,
+        "name": " Rust Book",
+        "titke": "lorem ipsum dolor sit amet, consectetur",
+        "prices": 820,
+        "category":"price",
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?semt=sph"
+    },
+    {
+        "id":14,
+        "name": " Dsa Book",
+        "titke": "lorem ipsum dolor sit amet, consectetur",
+        "prices": 120,
+        "category":"price",
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?semt=sph"
+    },
+    {
+        "id":15,
+        "name": " ALgorithm Book",
+        "titke": "lorem ipsum dolor sit amet, consectetur",
+        "prices": 620,
+        "category":"price",
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?semt=sph"
+    },
+    {
+        "id":16,
+        "name": " cs Book",
+        "titke": "lorem ipsum dolor sit amet, consectetur",
+        "prices": 850,
+        "category":"price",
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?semt=sph"
+    },
+    {
+        "id":17,
+        "name": " ee Book",
+        "titke": "lorem ipsum dolor sit amet, consectetur",
+        "prices": 830,
+        "category":"price",
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?semt=sph"
+    },
+    {
+        "id":18,
+        "name": " me Book",
+        "titke": "lorem ipsum dolor sit amet, consectetur",
+        "prices": 820,
+        "category":"price",
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?semt=sph"
+    },
+    {
+        "id":19,
+        "name": " it Book",
+        "titke": "lorem ipsum dolor sit amet, consectetur",
+        "prices": 430,
+        "category":"price",
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?semt=sph"
+    },
+    {
+        "id":20,
+        "name": " nodejs Book",
+        "titke": "lorem ipsum dolor sit amet, consectetur",
+        "prices": 1820,
+        "category":"price",
+        "image": "https://img.freepik.com/free-photo/front-view-stacked-books-graduation-cap-diploma-education-day_23-2149241011.jpg?semt=sph"
+    }
+    
+
+
+]
