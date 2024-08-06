@@ -1,11 +1,12 @@
 import express from "express";
 import dotenv from "dotenv";
 import mongoose from "mongoose";
-
+import cors from "cors";
 import bookRoute from "./routes/book.route.js";
 const app = express();
 dotenv.config();
 
+app.use(cors());
 const port=process.env.PORT ||3000;
 const URI=process.env.MONGODBURI;
 
